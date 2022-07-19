@@ -2,6 +2,7 @@
 This is a template repo to start on a new react sass project
 
 ## Folder structures
+### view raw to see it well
 
 React Setup Folder Structure
 
